@@ -36,7 +36,7 @@ Show bunde content with: `webpack-bundle-analyzer dist/starter-app/stats-json`
 
 # DEMO 4: Single SPA
 
-	cd 20-single-spa-examples
+	cd 04-single-spa-examples
 	yarn 
 	yarn build
 	yarn start
@@ -46,8 +46,7 @@ Open up http://localhost:8080 in a web browser.
 
 # DEMO 5: Single SPA with Event Bus
 
-
-	cd 21-sinlge-spa-portal-example
+	cd 05-sinlge-spa-portal-example
 	
 Jump into each app folder and do:
    - `npm install`
@@ -62,7 +61,7 @@ Open up http://localhost:9000 in a web browser.
 
 	
 # DEMO 6: Web Components	
-	cd /06-webcomponents/Angular_MicroApps_Different_Technologies
+	cd 06-webcomponents/Angular_MicroApps_Different_Technologies
 	cd shell
 	npm install
 	npm start
